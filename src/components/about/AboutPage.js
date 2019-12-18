@@ -1,6 +1,5 @@
 import React from "react";
 
-// functional component
 const AboutPage = () => (
   <div>
     <h2>About</h2>
@@ -11,4 +10,4 @@ const AboutPage = () => (
   </div>
 );
 
-export default AboutPage; 
+export default AboutPage;
