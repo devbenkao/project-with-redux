@@ -1,5 +1,5 @@
 import React from "react";
-import { cleanup, render, getByTestId } from "react-testing-library";
+import { cleanup, render } from "react-testing-library";
 import CourseForm from "./CourseForm";
 
 afterEach(cleanup);
