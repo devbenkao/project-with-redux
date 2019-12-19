@@ -17,7 +17,7 @@ function App() {
         <Route path="/courses" component={CoursesPage} />
         {/* slug is like an id, it's unique */}
         <Route path="/course/:slug" component={ManageCoursePage} />
-        <Route path="/courses" component={ManageCoursePage} />
+        <Route path="/course" component={ManageCoursePage} />
         <Route component={PageNotFound} />
       </Switch>
     </div>
