@@ -72,19 +72,11 @@
     },
     {
       "id": 11,
-      "title": "First Blog",
+      "title": "Test",
       "authorId": 1,
-      "category": "asdfasdfa",
-      "createdAt": 1576775193585,
-      "slug": "first-blog"
-    },
-    {
-      "id": 12,
-      "title": "asdfasdf",
-      "authorId": 1,
-      "category": "asdfasdfasdf",
-      "createdAt": 1576775202136,
-      "slug": "asdfasdf"
+      "category": "test",
+      "createdAt": 1576776678914,
+      "slug": "test"
     }
   ],
   "authors": [
